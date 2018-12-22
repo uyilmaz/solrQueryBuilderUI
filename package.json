@@ -1,0 +1,10 @@
+{
+  "name": "solr_query_builder_demo",
+  "version": "1.0.0",
+  "description": "",
+  "author": "ufuk.yilmaz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
